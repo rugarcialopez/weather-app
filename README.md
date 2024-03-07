@@ -21,4 +21,6 @@ $ npm run dev
 - Then go to “My API Keys” and generate a key.
 
 
-### Deployment to cloud
+## Deploy on Vercel
+
+Hosting URL: https://weather-app-one-kappa-83.vercel.app/
