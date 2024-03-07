@@ -4,7 +4,7 @@ Real-time data dashboard using react + typescript + vite. The dashboard displays
 
 # weather-app
 
-For running the app locally an appid from openweathermap is required and paste the value in .env file
+For running the app locally an api key environment variable is required.
 
 Below follow how to do some common tasks,
 
